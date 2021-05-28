@@ -32,7 +32,11 @@ npm start
 
 ## Some Error
 1. sh: 1: craco: Permission denied  
-2. File project permission
+its happen because u forget to install npm before running npm build
+```
+npm install
+```
+3. File project permission
 ```
 chown -R www-data:www-data project-folder-path
 ```
