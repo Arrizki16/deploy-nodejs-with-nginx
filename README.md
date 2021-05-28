@@ -1,4 +1,4 @@
-# deploy-nodejs-with-nginx
+# Deploy NodeJS with Nginx
 
 ## **CONTENTS**
 * [**Nodejs and npm**](#nodejs-and-npm)
