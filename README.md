@@ -28,3 +28,16 @@ npm run build
 ```
 npm start
 ```
+
+
+## Some Error
+1.
+2. File project permission
+```
+chown -R www-data:www-data project-folder-path
+```
+3. Failed to compile  
+![Screenshot_2021-05-28_09-14-48](https://user-images.githubusercontent.com/55046884/119919675-22cfad00-bf95-11eb-93f9-6386154a5fa4.png)
+```
+
+```
