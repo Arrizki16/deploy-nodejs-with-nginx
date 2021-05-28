@@ -36,11 +36,15 @@ its happen because u forget to install npm before running npm build
 ```
 npm install
 ```
+2. Failed to load config "react-app" to extend from.
+```
+
+```
 3. File project permission
 ```
 chown -R www-data:www-data project-folder-path
 ```
-3. Failed to compile  
+4. Failed to compile  
 ![Screenshot_2021-05-28_09-14-48](https://user-images.githubusercontent.com/55046884/119919675-22cfad00-bf95-11eb-93f9-6386154a5fa4.png)
 ```
 
