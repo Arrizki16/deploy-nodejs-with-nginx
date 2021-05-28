@@ -14,7 +14,7 @@ npm -v
 ```
 3. Install npm
 ```
-install npm
+npm install
 ```
 then you need to install newest version npn
 ```
@@ -24,7 +24,7 @@ npm install -g npm@next
 ```
 npm run build
 ```
-6. start
+5. start
 ```
-hpm start
+npm start
 ```
