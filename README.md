@@ -34,6 +34,12 @@ npm run build
 ```
 npm start
 ```
+6. uninstall
+```
+sudo rm -rf /usr/local/{lib/node{,/.npm,_modules},bin,share/man}/{npm*,node*,man1/node*}
+sudo apt-get remove nodejs
+sudo apt-get remove npm
+```
 
 ## Nginx  
 1. move to nginx configuration
