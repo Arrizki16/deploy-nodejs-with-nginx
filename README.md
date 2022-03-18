@@ -41,6 +41,16 @@ sudo apt-get remove nodejs
 sudo apt-get remove npm
 ```
 
+## YARN  
+1. Install
+```
+yarn
+```
+2. Build
+```
+yarn build
+```
+
 ## Nginx  
 1. move to nginx configuration
 ```
